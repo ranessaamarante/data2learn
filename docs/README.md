@@ -1,7 +1,7 @@
 # Guia de Uso do Markdown
 
 Este documento descreve como escrever em Markdown
-
+Livro de estatística: [Livro](statbook.pdf)
 ## Referências
 
 [![Daring Fireball](https://daringfireball.net/graphics/logos/)](https://daringfireball.net/)
